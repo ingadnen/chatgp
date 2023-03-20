@@ -2,8 +2,8 @@
     package="com.openai.chatgpt">
     <uses-permission android:name="android.permission.INTERNET" />
    <application
-        android:label="Eya Hamdi"
-        android:name="Eya Hamdi"
+        android:label="eyahamdi"
+        android:name="eyahamdi"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
